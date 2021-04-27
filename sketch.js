@@ -12,8 +12,6 @@ function setup() {
   for (let i = 0; i < nodes; i++) {
     circles.push(new Circle(i));
   }
-  
-  
 }
 
 function draw() {
